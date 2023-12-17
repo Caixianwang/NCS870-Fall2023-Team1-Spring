@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.study</groupId>
-	<artifactId>defense</artifactId>
+	<artifactId>NCS870-Fall2023-Team1-Spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>defense</name>
-	<description>Demo project for Spring Boot</description>
+	<name>NCS870-Fall2023-Team1-Spring</name>
+	<description>NCS870-Fall2023-Team1-Spring project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
