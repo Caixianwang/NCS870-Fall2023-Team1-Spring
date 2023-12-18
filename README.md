@@ -21,6 +21,6 @@ Generate NCS870-Fall2023-Team1-Spring-0.0.1-SNAPSHOT.jar in the target directory
 
 # Run project command
 
-java -jar NCS870-Fall2023-Team1-Spring-0.0.1-SNAPSHOT-0.0.1-SNAPSHOT.jar
+java -jar NCS870-Fall2023-Team1-Spring-0.0.1-SNAPSHOT.jar
 
 http://locahost:8080
