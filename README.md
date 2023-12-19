@@ -10,6 +10,10 @@ The NCS870-Fall2023-Team1 project consists of three sub-projects, which are: 1. 
 
 [NCS870-Fall2023-Team1-Python](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python)
 
+# Architecture
+
+![image](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python/assets/129556780/2c82920d-cd53-4b74-afb5-42eab4468ce9)
+
 # Incs870-Spring
 Spring Boot is the back-end framework that handles front-end requests and major business logic. With WebSocket technology, a persistent bidirectional connection is established to achieve real-time communication, ensuring that the system can transmit data in real time, which greatly improves the user experience, especially in situations requiring real-time updates and interactivity.
 # Launching Incs870-Spring
